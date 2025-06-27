@@ -1,5 +1,5 @@
 # Coffeeshop-Sales-Dashboard
 
-![Project Screenshot](https://github.com/aneesh662/Cofeeshop-Sales-Dashboard/Coffeeshop_Dashbaord.png)
+![Project Screenshot](https://github.com/aneesh662/Cofeeshop-Sales-Dashboard/blob/01f3548d1b77d35480402716a6d4cb01c1cb79ba/Coffeeshop_Dashbaord.png)
 ## Sample Project
 Please View sample project [here](https://app.powerbi.com/view?r=eyJrIjoiODU1NzYxZjAtNDFiYy00OWQ5LWE0ZDYtYzM0NDRiZWYzM2JlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=45a74edcde39565721d6).
