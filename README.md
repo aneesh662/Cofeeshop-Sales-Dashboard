@@ -1,4 +1,4 @@
-# Cofeeshop-Sales-Dashboard
+# Coffeeshop-Sales-Dashboard
 
 ![Project Screenshot](https://github.com/aneesh662/Cofeeshop-Sales-Dashboard/Coffeeshop_Dashbaord.png)
 ## Sample Project
