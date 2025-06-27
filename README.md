@@ -7,7 +7,7 @@ An interactive dashboard designed to analyze key sales and operational metrics o
 
 > 📅 Date Completed: 27-Jun-2025  
 > 💼 Role: Data Analyst  
-> 🛠 Tools: Excel / Power BI
+> 🛠 Tools: Excel 
 
 ---
 
@@ -51,8 +51,8 @@ An interactive dashboard designed to analyze key sales and operational metrics o
 - Dashboard Design & Visualization  
 - Revenue & Time Series Analysis  
 - Product & Customer Trend Analytics  
-- Power BI / Excel Data Modeling  
-- Business Intelligence & KPI Reporting  
+- Excel Data Modeling  
+
 
 ---
 
@@ -77,5 +77,5 @@ An interactive dashboard designed to analyze key sales and operational metrics o
 
 ---
 
-> 📬 For any queries or collaboration: [YourEmail@example.com]
+
 
